@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utsha Kumar Roy</h1>
 <h3 align="center">Passionate Robotics Enthusiast | Building a Robotic Future</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.newyorker.com/photos/5bedc34eafa1cb5e0abcac44/master/w_2560%2Cc_limit/181126_r33278.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uk-roy&label=Profile%20views&color=0e75b6&style=flat" alt="uk-roy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Robotic Manipulation**
 
