@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Robotic Manipulation**
 
-- 🌱 I’m currently learning **ROS2, Reinforcement Learning**
+- 🌱 I’m currently learning **Continous Space Control Vision Based Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **Reinforcement learning in robotics**
 
