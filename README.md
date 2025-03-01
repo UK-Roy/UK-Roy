@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" height="300" src="img/88zT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uk-roy&label=Profile%20views&color=0e75b6&style=flat" alt="uk-roy" /> </p>
 
-- 🔭 I’m currently working on **Robotic Manipulation**
+- 🔭 I’m currently working on **Robotic Navigation and Manipulation**
 
 - 🌱 I’m currently learning **Continous Space Control Vision Based Reinforcement Learning**
 
